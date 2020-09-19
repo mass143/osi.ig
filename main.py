@@ -23,4 +23,4 @@ if args['postscrap']:
 	ig.scrap_uploads()
 
 if args['savedata']:
-	ig.save_data()
+	ig.save_data(
